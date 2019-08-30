@@ -93,7 +93,7 @@ Template Name: contacto
 
     <script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/mapa.js"></script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDAROViOyZfQWVMH4MKx60vSf5t0K5VgNY&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=key_here&callback=initMap">
     </script>
         </div>
 	<div id="contacto">		
